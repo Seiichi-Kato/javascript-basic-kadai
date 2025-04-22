@@ -14,5 +14,5 @@ else if (num % 5 === 0 && num % 3 !== 0) {
 }
 // それ以外の場合： 変数numの値を出力する
 else {
-    console.log('num');
+    console.log(num);
 }
